@@ -60,27 +60,30 @@ npm install
 # Iniciar servidor de desarrollo
 ng serve
 
+📁 Estructura del Proyecto
+```
 Angular-Music-Player/
 ├── src/
-│   ├── app/
-│   │   ├── components/
-│   │   │   └── song-list/
-│   │   ├── services/
-│   │   │   ├── audio.service.ts
-│   │   │   ├── music-library.service.ts
-│   │   │   └── image.service.ts
-│   │   ├── models/
-│   │   │   └── cancion.model.ts
-│   │   ├── app.ts
-│   │   ├── app.html
-│   │   └── app.css
-│   ├── assets/
-│   │   ├── audio/
-│   │   └── images/
-│   └── index.html
+│ ├── app/
+│ │ ├── components/
+│ │ │ └── song-list/
+│ │ ├── services/
+│ │ │ ├── audio.service.ts
+│ │ │ ├── music-library.service.ts
+│ │ │ └── image.service.ts
+│ │ ├── models/
+│ │ │ └── cancion.model.ts
+│ │ ├── app.ts
+│ │ ├── app.html
+│ │ └── app.css
+│ ├── assets/
+│ │ ├── audio/
+│ │ └── images/
+│ └── index.html
 ├── angular.json
 ├── package.json
 ├── vercel.json
 └── README.md
+```
 
 
