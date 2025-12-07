@@ -2,8 +2,12 @@
 
 [![Angular](https://img.shields.io/badge/Angular-21.0.0-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+[![RxJS](https://img.shields.io/badge/RxJS-7.8.0-pink?style=for-the-badge&logo=reactivex&logoColor=white)](https://rxjs.dev/)
+[![Angular Material](https://img.shields.io/badge/Angular_Material-21.0-purple?style=for-the-badge&logo=angular&logoColor=white)](https://material.angular.io/)
+[![HTML5 Audio](https://img.shields.io/badge/HTML5_Audio-API-orange?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement)
+[![Node.js](https://img.shields.io/badge/Node.js-18%2B-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 ## 🌐 Live Application
 **👉 https://music-player-roan-eight.vercel.app/**
