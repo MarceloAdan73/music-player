@@ -106,20 +106,6 @@ text
 
 ---
 
-## 🎵 Song Library
-
-### **Featured Tracks**
-| # | Song | Artist | Album | Genre | Year | Duration |
-|---|------|--------|-------|-------|------|----------|
-| 1 | **Al Compás de la Mentira** | Tren Loco | Al Compás de la Mentira | Heavy Metal | 1994 | 4:00 |
-| 2 | **Caught Somewhere in Time** | Iron Maiden | Somewhere in Time | Heavy Metal | 1986 | 7:21 |
-| 3 | **Cuantas Palabras** | O'Connor | Single | Rock | 2015 | 4:50 |
-| 4 | **Down** | Stone Temple Pilots | Stone Temple Pilots | Grunge Rock | 2017 | 5:40 |
-| 5 | **Judas Oficio** | Malón | Espíritu Combativo | Heavy Metal | 2015 | 4:20 |
-| 6 | **Let It Roll** | Velvet Revolver | Contraband | Hard Rock | 2020 | 4:00 |
-
----
-
 ## 🎛️ Player Controls
 
 ### **Main Controls**
