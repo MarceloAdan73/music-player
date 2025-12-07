@@ -14,30 +14,13 @@
 
 A modern, responsive music player built with Angular 21 featuring local MP3 files, album covers, and a sleek dark-themed UI with audio visualization particles.
 
-## 🖼️ Screenshots
-
-<div align="center">
-
-### 🎵 Main Player Interface
-![Main Player](https://github.com/MarceloAdan73/music-player/raw/main/src/assets/images/covers/screen1.png)
-*Reproductor principal con controles y lista de canciones*
-
-
-![Mobile View](https://github.com/MarceloAdan73/music-player/raw/main/src/assets/images/covers/screen2.png)
-
-
-### 📱 Mobile Responsive View  
-![Visual Effects](https://github.com/MarceloAdan73/music-player/raw/main/src/assets/images/covers/screen3.png) ![Player Controls](https://github.com/MarceloAdan73/music-player/raw/main/src/assets/images/covers/screen4.png)
-
-</div>
-
 ## 📸 Application Screenshots
 
-| Vista Principal | Vista Móvil |
+| Vista Principal | Vista Bibioteca |
 |----------------|-------------|
 | ![Main](https://github.com/MarceloAdan73/music-player/raw/main/src/assets/images/covers/screen1.png) | ![Mobile](https://github.com/MarceloAdan73/music-player/raw/main/src/assets/images/covers/screen2.png) |
 
-| Efectos Visuales | Controles |
+| Vista Móvil | Controles |
 |-----------------|-----------|
 | ![Effects](https://github.com/MarceloAdan73/music-player/raw/main/src/assets/images/covers/screen3.png) | ![Controls](https://github.com/MarceloAdan73/music-player/raw/main/src/assets/images/covers/screen4.png) |
 
