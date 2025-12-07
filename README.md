@@ -102,8 +102,6 @@ Angular-Music-Player/
 ├── vercel.json
 └── README.md
 
-Pega estas 27 líneas exa
-
 ## 🎛️ Player Controls
 
 ### **Main Controls**
