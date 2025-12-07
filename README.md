@@ -42,7 +42,7 @@ npm install
 ng serve
 ```
 
-📁 Estructura del Proyecto
+## 📁 Estructura del Proyecto
 ```
 Angular-Music-Player/
 ├── src/
